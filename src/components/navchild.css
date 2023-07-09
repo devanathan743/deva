@@ -1,0 +1,12 @@
+.Navchild {
+  display: flex;
+}
+.Navchild1 {
+  padding: 10px;
+  margin: 80px;
+  height: 100px;
+
+  position: relative;
+
+  left: -900px;
+}

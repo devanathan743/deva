@@ -1,0 +1,22 @@
+* {
+  padding: 0ch;
+  margin: 0ch;
+}
+
+.left {
+  float: left;
+  width: 30%;
+  height: 700px;
+
+  position: relative;
+  top: -120px;
+}
+
+.right {
+  float: right;
+  width: 70%;
+  height: 700px;
+
+  position: relative;
+  top: -120px;
+}
